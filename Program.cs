@@ -1,6 +1,6 @@
 ﻿namespace HW_Arrays
 {
-    internal class Zmeyka
+    class Zmeyka
     {
         static void Main(string[] args)
         {
